@@ -2,7 +2,7 @@ import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import "./index.css";
 import { BrowserRouter, Routes, Route } from "react-router";
-import GameBoardPage from "./pages/game.board.page";
+import GameBoardPage from "./pages/game-board.page";
 import GameMenuPage from "./pages/game-menu.page";
 import RegisterPage from "./pages/register.page";
 import StoreProvider from "./store";
